@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Irshad-portfolio/static/css/main.43652774.css",
+    "main.js": "/Irshad-portfolio/static/js/main.2bebce02.js",
+    "static/media/Image.jpg.jpeg": "/Irshad-portfolio/static/media/Image.jpg.503e57ed9d71d0d2d215.jpeg",
+    "static/media/portfoli5.jpg.jpeg": "/Irshad-portfolio/static/media/portfoli5.jpg.fb3056759e083d78b0b6.jpeg",
+    "static/media/portfoli4.jpg.jpeg": "/Irshad-portfolio/static/media/portfoli4.jpg.4cb91c3884e307a19cc1.jpeg",
+    "static/media/portfoli6.jpg.jpeg": "/Irshad-portfolio/static/media/portfoli6.jpg.3dc01e4eee9613c0cb74.jpeg",
+    "static/media/portfolio3.jpg.jpeg": "/Irshad-portfolio/static/media/portfolio3.jpg.3784ec62f3961f2501a5.jpeg",
+    "static/media/portfoli2.jpg.jpeg": "/Irshad-portfolio/static/media/portfoli2.jpg.66aa418a329808ab579c.jpeg",
+    "index.html": "/Irshad-portfolio/index.html",
+    "main.43652774.css.map": "/Irshad-portfolio/static/css/main.43652774.css.map",
+    "main.2bebce02.js.map": "/Irshad-portfolio/static/js/main.2bebce02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43652774.css",
+    "static/js/main.2bebce02.js"
+  ]
+}
